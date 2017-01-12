@@ -1,6 +1,6 @@
 #醉考拉_tomcat弱口令扫描器 v1.0
 简介：一款tomcat弱口令扫描器，支持ip、端口批量扫描
-##命令行版：koala_tomcat_cmd.py
+###命令行版：koala_tomcat_cmd.py
 
 使用方式：python koala_tomcat_cmd.py -h ip -p port -m 100 -t 10
 
@@ -15,6 +15,6 @@
 默认漏洞结果保存在 result.txt中
 
 
-##gui版：koala_tomcat_gui.py koala_tomcat_gui.exe
+###gui版：koala_tomcat_gui.py koala_tomcat_gui.exe
 
 使用方式：中文图形界面使用方式就不多说啦，配置文件和命令行版的一样。
