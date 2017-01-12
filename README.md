@@ -1,2 +1,2 @@
-# tomcat-weak-password-scanner
-tomcat-weak-password-scanner
+# 醉考拉tomcat弱口令扫描器 v1.0
+使用格式：-h
