@@ -26,7 +26,7 @@ gLock=threading.Lock()
 #
 gIpList=[]
 gPortList=[]
-gThreadAmount=80
+gThreadAmount=100
 gTimeout=10
 gUserList=[]
 gPassList=['']
