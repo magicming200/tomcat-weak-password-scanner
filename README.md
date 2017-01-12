@@ -21,4 +21,4 @@
 
 使用方式：中文图形界面，不多说啦。
 
-![]https://github.com/magicming200/tomcat-weak-password-scanner/blob/master/koala_tomcat_gui_screenshot.png
+![](https://github.com/magicming200/tomcat-weak-password-scanner/blob/master/koala_tomcat_gui_screenshot.png)
