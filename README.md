@@ -6,7 +6,7 @@
 
 介绍：界面使用pyqt4开发，koala_tomcat_gui.exe支持windows平台，koala_tomcat_gui.py需要pyqt4库支持。使用pyinstaller转py为exe，部分二逼杀软会误报，不放心的请执行py。
 
-使用方式：直接上图，不多说啦。
+使用方式：看图。
 
 ![](https://github.com/magicming200/tomcat-weak-password-scanner/blob/master/koala_tomcat_gui_screenshot.png)
 
@@ -24,4 +24,4 @@
 
 默认漏洞结果保存在 result.txt中
 
-本软件仅供用户对已经得到测试授权的系统使用！
+本软件仅供对客户已授权的系统使用！
