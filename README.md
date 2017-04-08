@@ -1,6 +1,6 @@
 #醉考拉_tomcat弱口令扫描器 v1.0
 简介：一款tomcat后台弱口令扫描器。支持多线程、多ip、多端口批量扫描，支持自定义弱口令字典。
-本软件仅供用户对已经得到测试授权的系统使用！
+
 ###图形界面版：koala_tomcat_gui.exe  koala_tomcat_gui.py 
 
 介绍：界面使用pyqt4开发，koala_tomcat_gui.exe支持windows平台，koala_tomcat_gui.py需要pyqt4库支持。使用pyinstaller转py为exe，部分二逼杀软会误报，不放心的请执行py。
@@ -22,3 +22,5 @@
 -t 可选参数，指定HTTP请求超时时间，默认为10秒，端口扫描超时为值的1/2。
 
 默认漏洞结果保存在 result.txt中
+
+本软件仅供用户对已经得到测试授权的系统使用！
