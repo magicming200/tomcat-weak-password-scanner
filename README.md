@@ -1,8 +1,8 @@
-#醉考拉_tomcat弱口令扫描器 v1.0
+# 醉考拉_tomcat弱口令扫描器 v1.0
 
 简介：一款tomcat后台弱口令扫描器。支持多线程、多ip、多端口批量扫描，支持自定义弱口令字典。
 
-###图形界面版：koala_tomcat_gui.exe  koala_tomcat_gui.py 
+### 图形界面版：koala_tomcat_gui.exe  koala_tomcat_gui.py 
 
 介绍：界面使用pyqt4开发，koala_tomcat_gui.exe支持windows平台，koala_tomcat_gui.py需要pyqt4库支持。使用pyinstaller转py为exe，部分二逼杀软会误报，不放心的请执行py。
 
@@ -10,7 +10,7 @@
 
 ![](https://github.com/magicming200/tomcat-weak-password-scanner/blob/master/koala_tomcat_gui_screenshot.png)
 
-###命令行版：koala_tomcat_cmd.py
+### 命令行版：koala_tomcat_cmd.py
 
 使用方式：python koala_tomcat_cmd.py -h ip -p port -m 100 -t 10
 
